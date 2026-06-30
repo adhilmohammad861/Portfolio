@@ -1,0 +1,57 @@
+.techstack {
+  width: 100%;
+  position: relative;
+  height: var(--vh);
+  margin: auto;
+  margin-top: 50px;
+  margin-bottom: -100px;
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+}
+
+.techstack-header {
+  flex-shrink: 0;
+  padding: 60px 20px 10px;
+  text-align: center;
+  z-index: 2;
+}
+
+.techstack-header h2 {
+  font-size: 80px;
+  font-weight: 400;
+  text-transform: uppercase;
+  margin: 0;
+  line-height: 1;
+  position: static;
+  width: auto;
+  pointer-events: none;
+}
+
+.techstack-header h2 span {
+  color: var(--accentColor);
+}
+
+.techstack-arena {
+  flex: 1;
+  position: relative;
+  min-height: 0;
+  width: 100%;
+}
+
+.tech-canvas {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  inset: 0;
+}
+
+@media screen and (max-width: 900px) {
+  .techstack-header {
+    padding: 40px 20px 8px;
+  }
+
+  .techstack-header h2 {
+    font-size: 40px;
+  }
+}
