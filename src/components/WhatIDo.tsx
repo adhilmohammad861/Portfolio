@@ -1,6 +1,9 @@
 import { useEffect, useRef } from "react";
 import "./styles/WhatIDo.css";
+import { gsap } from "gsap";
 import { ScrollTrigger } from "gsap/ScrollTrigger";
+
+gsap.registerPlugin(ScrollTrigger);
 
 const WhatIDo = () => {
   const containerRef = useRef<(HTMLDivElement | null)[]>([]);
