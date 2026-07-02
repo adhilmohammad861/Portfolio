@@ -18,7 +18,15 @@ npm run preview
 
 ## Deploy
 
-Deploy the `dist` folder to Vercel, Netlify, or any static host. For Vercel, connect this repository and use the default Vite build settings (`npm run build`, output `dist`).
+Deploy to Render as a **Web Service** (not Static Site):
+
+- **Build command:** `npm install && npm run build`
+- **Start command:** `npm start`
+- **Node version:** 18+
+
+Or use the included [`render.yaml`](render.yaml) Blueprint.
+
+For Vercel/Netlify, deploy the `dist` folder with build command `npm run build`.
 
 ## Credits
 
