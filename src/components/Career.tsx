@@ -4,30 +4,30 @@ const timeline = [
   {
     role: "M.S. in Information Systems",
     org: "Central Michigan University",
-    period: "2024 – 2026",
+    period: "Aug 2024 – May 2026",
     description:
-      "GPA 3.8/4.0 · Mt. Pleasant, MI. Coursework: Database Management, Enterprise Application Development, Web Programming, Data Analytics, Information Security.",
+      "Completed · Mt. Pleasant, MI. Coursework and focus areas: Database Management, Enterprise Application Development, Web Programming, Data Analytics, and Information Security.",
   },
   {
     role: "Operations Analyst — Data, SQL & Reporting",
     org: "Kotak Mahindra Bank",
     period: "Mar – Aug 2024",
     description:
-      "Wrote SQL queries against the core banking database to analyze 10,000+ daily transactions for accuracy and compliance. Automated data-validation workflows with Python (~40% time saved). Built trend dashboards for branch leadership and translated compliance rules into reusable reporting logic.",
+      "Built complex SQL (CTEs, window functions, views, indexing) against a core banking database to validate 10,000+ daily transactions. Automated reconciliation with Python/Pandas (~40% less manual effort; 3-hour process → 20 minutes). Dashboards, anomaly detection, audit-ready reporting, and 15+ reusable SQL templates for Compliance, Audit, and Operations.",
   },
   {
     role: "Research Intern — IoT & 5G/6G Wireless Systems",
     org: "IIT Hyderabad",
     period: "Jul 2021 – Dec 2023",
     description:
-      "Built Python and C++ simulation tooling to model data transmission, latency, and throughput on next-generation wireless networks. Processed and visualized multi-GB datasets; applied concurrency, MQTT, and high-throughput data handling to event-driven architectures.",
+      "Architected the lab’s primary Python/C++ wireless simulation platform used across a 2.5-year research program. Ran 300+ experiments on multi-GB datasets, cut simulation runtime ~35% via performance work, and built MQTT IoT aggregation with sub-50 ms latency under lab testing.",
   },
   {
     role: "B.Tech Electronics & Communication Engineering",
     org: "JNTU Hyderabad",
-    period: "2020 – 2024",
+    period: "Jul 2020 – Jun 2024",
     description:
-      "GPA 8.3/10 · Hyderabad, India. Engineering foundation in systems thinking, wireless communications, and technical problem-solving.",
+      "Hyderabad, India. Engineering foundation in systems thinking, wireless communications, and technical problem-solving.",
   },
   {
     role: "Certifications & Learning",

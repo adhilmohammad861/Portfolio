@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="720" viewBox="0 0 1200 720">
+  <rect width="1200" height="720" fill="#001f42"/>
+  <rect x="60" y="60" width="1080" height="600" rx="16" fill="#0a2a4f" stroke="#B49759" stroke-width="2"/>
+  <rect x="100" y="110" width="280" height="40" rx="8" fill="#B49759"/>
+  <text x="120" y="138" fill="#003874" font-family="Arial" font-size="22" font-weight="700">KIWANIS</text>
+  <text x="420" y="138" fill="#F5F2EA" font-family="Arial" font-size="28" font-weight="700">Community Web Platform</text>
+  <rect x="100" y="190" width="420" height="220" rx="12" fill="#002a56" stroke="#4a6d92"/>
+  <text x="130" y="240" fill="#B49759" font-family="Arial" font-size="18">Events Portal</text>
+  <text x="130" y="280" fill="#d7e4f5" font-family="Arial" font-size="16">Public calendar + ticketing</text>
+  <text x="130" y="320" fill="#d7e4f5" font-family="Arial" font-size="16">GiveButter payments</text>
+  <text x="130" y="360" fill="#d7e4f5" font-family="Arial" font-size="16">Mobile-responsive layouts</text>
+  <rect x="560" y="190" width="520" height="220" rx="12" fill="#002a56" stroke="#4a6d92"/>
+  <text x="590" y="240" fill="#B49759" font-family="Arial" font-size="18">Board Admin Dashboard</text>
+  <text x="590" y="280" fill="#d7e4f5" font-family="Arial" font-size="16">Role-based event CRUD</text>
+  <text x="590" y="320" fill="#d7e4f5" font-family="Arial" font-size="16">Realtime Supabase sync</text>
+  <text x="590" y="360" fill="#d7e4f5" font-family="Arial" font-size="16">Application notifications</text>
+  <text x="100" y="480" fill="#F5F2EA" font-family="Arial" font-size="20">React  -  Supabase  -  GiveButter</text>
+  <text x="100" y="540" fill="#9eb6d4" font-family="Arial" font-size="16">Nonprofit community platform for events, members, and board ops</text>
+</svg>
