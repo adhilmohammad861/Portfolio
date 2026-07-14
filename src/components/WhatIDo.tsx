@@ -94,8 +94,8 @@ const WhatIDo = () => {
               <h4>Description</h4>
               <p>
                 Enterprise full-stack development — APIs, data layers, React
-                frontends, and .NET backends for scalable, production-ready
-                applications.
+                frontends, .NET backends, and modern web platforms for production
+                and nonprofit products.
               </p>
               <h5>Skillset & tools</h5>
               <div className="what-content-flex">
@@ -104,12 +104,14 @@ const WhatIDo = () => {
                 <div className="what-tags">React</div>
                 <div className="what-tags">TypeScript</div>
                 <div className="what-tags">Next.js</div>
+                <div className="what-tags">Supabase</div>
                 <div className="what-tags">PostgreSQL</div>
                 <div className="what-tags">SQL Server</div>
                 <div className="what-tags">MongoDB</div>
                 <div className="what-tags">AWS</div>
                 <div className="what-tags">Entity Framework</div>
                 <div className="what-tags">REST APIs</div>
+                <div className="what-tags">Docker</div>
                 <div className="what-tags">xUnit</div>
               </div>
               <div className="what-arrow"></div>

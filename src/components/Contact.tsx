@@ -10,8 +10,8 @@ const Contact = () => {
           <div className="contact-box">
             <h4>Email</h4>
             <p>
-              <a href="mailto:adhilmohammad315@gmail.com" data-cursor="disable">
-                adhilmohammad315@gmail.com
+              <a href="mailto:adhilmohammad861@gmail.com" data-cursor="disable">
+                adhilmohammad861@gmail.com
               </a>
             </p>
             <h4>Phone</h4>
@@ -21,7 +21,7 @@ const Contact = () => {
               </a>
             </p>
             <h4>Location</h4>
-            <p>Ann Arbor, MI</p>
+            <p>Ann Arbor, MI · Open to relocate</p>
           </div>
           <div className="contact-box">
             <h4>Social</h4>
@@ -40,6 +40,16 @@ const Contact = () => {
               className="contact-social"
             >
               Linkedin <MdArrowOutward />
+            </a>
+            <a
+              href="/resume.pdf"
+              target="_blank"
+              rel="noopener noreferrer"
+              data-cursor="disable"
+              className="contact-social"
+              download="Mohammad_Adhil_Resume.pdf"
+            >
+              Resume <MdArrowOutward />
             </a>
           </div>
           <div className="contact-box">

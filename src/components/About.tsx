@@ -8,16 +8,16 @@ const About = () => {
         <p className="para">
           Full-Stack Software Engineer with 3+ years of experience building
           scalable enterprise applications using C#, .NET, ASP.NET Core, React,
-          and PostgreSQL. Experienced in designing APIs, data-driven
-          applications, and modern web platforms that improve operational
-          efficiency and user experience.
+          and PostgreSQL. Experienced designing APIs, data-driven platforms, and
+          modern web products that improve operational efficiency and user
+          experience.
         </p>
         <p className="para">
-          Hands-on experience integrating generative AI solutions, RAG pipelines,
-          and LLM-powered features into production applications. Strong
-          foundation in object-oriented design, REST APIs, testing, database
-          design, and Agile development. Currently pursuing an M.S. in
-          Information Systems at Central Michigan University with a focus on
+          Hands-on with generative AI in production — RAG pipelines, embeddings,
+          prompt engineering, and LLM-powered features with strong guardrails.
+          Solid foundation in object-oriented design, REST APIs, testing,
+          database design, and Agile delivery. Recently completed an M.S. in
+          Information Systems at Central Michigan University, focused on
           AI-enabled software systems and enterprise application development.
         </p>
       </div>
